@@ -35,7 +35,6 @@ while True :
         if choix == 1 :
             fad.print_stat()
         if choix == 2 :
-            fad.save_fig()
             fad.affiche_graph()
         if choix == 3 :
             print("\nles 5 motifs d'hospitalisation les plus fréquent : ")
