@@ -1,0 +1,1026 @@
+ID : 170
+nom : Quincy, age : 50, motif : Migraine
+ID : 194
+nom : Isla, age : 50, motif : Fièvre
+ID : 305
+nom : Diana, age : 50, motif : Diabète
+ID : 340
+nom : Rachel, age : 50, motif : Fièvre
+ID : 375
+nom : Bob, age : 50, motif : Migraine
+ID : 394
+nom : Tina, age : 50, motif : Migraine
+ID : 435
+nom : Bob, age : 50, motif : Douleur abdominale
+ID : 622
+nom : Nathan, age : 50, motif : Migraine
+ID : 745
+nom : Diana, age : 50, motif : Migraine
+ID : 45
+nom : Bob, age : 51, motif : Fièvre
+ID : 48
+nom : Diana, age : 51, motif : Fièvre
+ID : 449
+nom : Liam, age : 51, motif : Accident
+ID : 561
+nom : Eve, age : 51, motif : Fracture
+ID : 587
+nom : Eve, age : 51, motif : Fracture
+ID : 623
+nom : Tina, age : 51, motif : Diabète
+ID : 711
+nom : Rachel, age : 51, motif : Diabète
+ID : 848
+nom : Bob, age : 51, motif : Migraine
+ID : 979
+nom : Henry, age : 51, motif : Cardiopathie
+ID : 19
+nom : Karen, age : 52, motif : Douleur abdominale
+ID : 332
+nom : Jack, age : 52, motif : Rhumatisme
+ID : 341
+nom : Isla, age : 52, motif : Traumatisme
+ID : 351
+nom : Diana, age : 52, motif : Cardiopathie
+ID : 362
+nom : Isla, age : 52, motif : Traumatisme
+ID : 385
+nom : Karen, age : 52, motif : Infection
+ID : 387
+nom : Olivia, age : 52, motif : Traumatisme
+ID : 538
+nom : Henry, age : 52, motif : Infection
+ID : 907
+nom : Grace, age : 52, motif : Rhumatisme
+ID : 955
+nom : Karen, age : 52, motif : Fracture
+ID : 982
+nom : Olivia, age : 52, motif : Migraine
+ID : 71
+nom : Liam, age : 53, motif : Accident
+ID : 191
+nom : Steve, age : 53, motif : Fracture
+ID : 272
+nom : Steve, age : 53, motif : Traumatisme
+ID : 274
+nom : Alice, age : 53, motif : Accident
+ID : 299
+nom : Rachel, age : 53, motif : Rhumatisme
+ID : 463
+nom : Rachel, age : 53, motif : Diabète
+ID : 492
+nom : Steve, age : 53, motif : Accident
+ID : 665
+nom : Mona, age : 53, motif : Cardiopathie
+ID : 696
+nom : Grace, age : 53, motif : Diabète
+ID : 826
+nom : Olivia, age : 53, motif : Fracture
+ID : 834
+nom : Rachel, age : 53, motif : Fièvre
+ID : 889
+nom : Jack, age : 53, motif : Migraine
+ID : 46
+nom : Diana, age : 54, motif : Traumatisme
+ID : 224
+nom : Tina, age : 54, motif : Fracture
+ID : 259
+nom : Karen, age : 54, motif : Douleur abdominale
+ID : 297
+nom : Eve, age : 54, motif : Fracture
+ID : 367
+nom : Liam, age : 54, motif : Rhumatisme
+ID : 486
+nom : Rachel, age : 54, motif : Rhumatisme
+ID : 488
+nom : Quincy, age : 54, motif : Migraine
+ID : 572
+nom : Jack, age : 54, motif : Cardiopathie
+ID : 651
+nom : Charlie, age : 54, motif : Rhumatisme
+ID : 729
+nom : Tina, age : 54, motif : Diabète
+ID : 861
+nom : Quincy, age : 54, motif : Migraine
+ID : 871
+nom : Liam, age : 54, motif : Douleur abdominale
+ID : 876
+nom : Rachel, age : 54, motif : Fièvre
+ID : 903
+nom : Tina, age : 54, motif : Diabète
+ID : 36
+nom : Jack, age : 55, motif : Infection
+ID : 202
+nom : Frank, age : 55, motif : Infection
+ID : 218
+nom : Charlie, age : 55, motif : Traumatisme
+ID : 228
+nom : Jack, age : 55, motif : Rhumatisme
+ID : 253
+nom : Nathan, age : 55, motif : Fièvre
+ID : 382
+nom : Karen, age : 55, motif : Infection
+ID : 558
+nom : Mona, age : 55, motif : Douleur abdominale
+ID : 87
+nom : Rachel, age : 56, motif : Rhumatisme
+ID : 185
+nom : Diana, age : 56, motif : Infection
+ID : 326
+nom : Isla, age : 56, motif : Infection
+ID : 474
+nom : Liam, age : 56, motif : Migraine
+ID : 476
+nom : Isla, age : 56, motif : Migraine
+ID : 499
+nom : Rachel, age : 56, motif : Infection
+ID : 532
+nom : Diana, age : 56, motif : Fracture
+ID : 619
+nom : Bob, age : 56, motif : Traumatisme
+ID : 639
+nom : Rachel, age : 56, motif : Infection
+ID : 657
+nom : Eve, age : 56, motif : Infection
+ID : 779
+nom : Karen, age : 56, motif : Fièvre
+ID : 922
+nom : Diana, age : 56, motif : Cardiopathie
+ID : 31
+nom : Alice, age : 57, motif : Cardiopathie
+ID : 69
+nom : Henry, age : 57, motif : Rhumatisme
+ID : 91
+nom : Rachel, age : 57, motif : Rhumatisme
+ID : 92
+nom : Mona, age : 57, motif : Rhumatisme
+ID : 129
+nom : Olivia, age : 57, motif : Cardiopathie
+ID : 154
+nom : Jack, age : 57, motif : Cardiopathie
+ID : 161
+nom : Alice, age : 57, motif : Infection
+ID : 175
+nom : Bob, age : 57, motif : Fièvre
+ID : 316
+nom : Quincy, age : 57, motif : Fièvre
+ID : 346
+nom : Mona, age : 57, motif : Fracture
+ID : 366
+nom : Isla, age : 57, motif : Fièvre
+ID : 371
+nom : Alice, age : 57, motif : Accident
+ID : 458
+nom : Diana, age : 57, motif : Diabète
+ID : 551
+nom : Grace, age : 57, motif : Fièvre
+ID : 613
+nom : Frank, age : 57, motif : Diabète
+ID : 641
+nom : Steve, age : 57, motif : Accident
+ID : 814
+nom : Mona, age : 57, motif : Migraine
+ID : 54
+nom : Isla, age : 58, motif : Rhumatisme
+ID : 82
+nom : Charlie, age : 58, motif : Fièvre
+ID : 257
+nom : Steve, age : 58, motif : Accident
+ID : 271
+nom : Eve, age : 58, motif : Accident
+ID : 360
+nom : Jack, age : 58, motif : Diabète
+ID : 427
+nom : Tina, age : 58, motif : Diabète
+ID : 656
+nom : Diana, age : 58, motif : Douleur abdominale
+ID : 842
+nom : Henry, age : 58, motif : Rhumatisme
+ID : 927
+nom : Rachel, age : 58, motif : Accident
+ID : 943
+nom : Quincy, age : 58, motif : Douleur abdominale
+ID : 986
+nom : Henry, age : 58, motif : Migraine
+ID : 96
+nom : Liam, age : 59, motif : Cardiopathie
+ID : 113
+nom : Eve, age : 59, motif : Fracture
+ID : 389
+nom : Isla, age : 59, motif : Douleur abdominale
+ID : 462
+nom : Alice, age : 59, motif : Diabète
+ID : 550
+nom : Charlie, age : 59, motif : Traumatisme
+ID : 553
+nom : Jack, age : 59, motif : Infection
+ID : 650
+nom : Henry, age : 59, motif : Douleur abdominale
+ID : 704
+nom : Mona, age : 59, motif : Traumatisme
+ID : 811
+nom : Isla, age : 59, motif : Fièvre
+ID : 917
+nom : Frank, age : 59, motif : Fièvre
+ID : 145
+nom : Eve, age : 60, motif : Infection
+ID : 146
+nom : Eve, age : 60, motif : Cardiopathie
+ID : 212
+nom : Bob, age : 60, motif : Infection
+ID : 317
+nom : Steve, age : 60, motif : Rhumatisme
+ID : 459
+nom : Henry, age : 60, motif : Fracture
+ID : 555
+nom : Tina, age : 60, motif : Accident
+ID : 564
+nom : Liam, age : 60, motif : Rhumatisme
+ID : 604
+nom : Nathan, age : 60, motif : Fracture
+ID : 8
+nom : Eve, age : 61, motif : Diabète
+ID : 50
+nom : Diana, age : 61, motif : Migraine
+ID : 68
+nom : Liam, age : 61, motif : Douleur abdominale
+ID : 76
+nom : Quincy, age : 61, motif : Fracture
+ID : 308
+nom : Olivia, age : 61, motif : Diabète
+ID : 575
+nom : Nathan, age : 61, motif : Traumatisme
+ID : 579
+nom : Tina, age : 61, motif : Douleur abdominale
+ID : 606
+nom : Nathan, age : 61, motif : Douleur abdominale
+ID : 638
+nom : Isla, age : 61, motif : Fièvre
+ID : 667
+nom : Olivia, age : 61, motif : Cardiopathie
+ID : 853
+nom : Isla, age : 61, motif : Douleur abdominale
+ID : 857
+nom : Diana, age : 61, motif : Rhumatisme
+ID : 106
+nom : Bob, age : 62, motif : Diabète
+ID : 310
+nom : Alice, age : 62, motif : Diabète
+ID : 363
+nom : Henry, age : 62, motif : Fièvre
+ID : 407
+nom : Diana, age : 62, motif : Accident
+ID : 556
+nom : Rachel, age : 62, motif : Infection
+ID : 770
+nom : Charlie, age : 62, motif : Cardiopathie
+ID : 968
+nom : Alice, age : 62, motif : Cardiopathie
+ID : 243
+nom : Nathan, age : 63, motif : Migraine
+ID : 251
+nom : Diana, age : 63, motif : Fièvre
+ID : 323
+nom : Alice, age : 63, motif : Fièvre
+ID : 384
+nom : Frank, age : 63, motif : Fièvre
+ID : 456
+nom : Tina, age : 63, motif : Rhumatisme
+ID : 565
+nom : Karen, age : 63, motif : Infection
+ID : 776
+nom : Henry, age : 63, motif : Infection
+ID : 59
+nom : Henry, age : 64, motif : Fracture
+ID : 63
+nom : Steve, age : 64, motif : Fracture
+ID : 100
+nom : Tina, age : 64, motif : Rhumatisme
+ID : 208
+nom : Rachel, age : 64, motif : Accident
+ID : 225
+nom : Charlie, age : 64, motif : Rhumatisme
+ID : 395
+nom : Rachel, age : 64, motif : Infection
+ID : 537
+nom : Alice, age : 64, motif : Migraine
+ID : 577
+nom : Paul, age : 64, motif : Migraine
+ID : 583
+nom : Olivia, age : 64, motif : Cardiopathie
+ID : 625
+nom : Nathan, age : 64, motif : Traumatisme
+ID : 787
+nom : Bob, age : 64, motif : Migraine
+ID : 816
+nom : Grace, age : 64, motif : Cardiopathie
+ID : 935
+nom : Jack, age : 64, motif : Infection
+ID : 999
+nom : Frank, age : 64, motif : Migraine
+ID : 119
+nom : Jack, age : 65, motif : Cardiopathie
+ID : 410
+nom : Paul, age : 65, motif : Infection
+ID : 568
+nom : Henry, age : 65, motif : Rhumatisme
+ID : 610
+nom : Charlie, age : 65, motif : Fracture
+ID : 640
+nom : Olivia, age : 65, motif : Douleur abdominale
+ID : 788
+nom : Olivia, age : 65, motif : Fièvre
+ID : 994
+nom : Quincy, age : 65, motif : Fièvre
+ID : 28
+nom : Alice, age : 66, motif : Douleur abdominale
+ID : 120
+nom : Nathan, age : 66, motif : Fracture
+ID : 162
+nom : Quincy, age : 66, motif : Fièvre
+ID : 233
+nom : Isla, age : 66, motif : Rhumatisme
+ID : 263
+nom : Alice, age : 66, motif : Migraine
+ID : 470
+nom : Isla, age : 66, motif : Fracture
+ID : 629
+nom : Jack, age : 66, motif : Rhumatisme
+ID : 654
+nom : Tina, age : 66, motif : Fièvre
+ID : 708
+nom : Mona, age : 66, motif : Migraine
+ID : 749
+nom : Mona, age : 66, motif : Diabète
+ID : 810
+nom : Olivia, age : 66, motif : Infection
+ID : 849
+nom : Diana, age : 66, motif : Fièvre
+ID : 989
+nom : Liam, age : 66, motif : Rhumatisme
+ID : 47
+nom : Tina, age : 67, motif : Accident
+ID : 55
+nom : Jack, age : 67, motif : Infection
+ID : 198
+nom : Bob, age : 67, motif : Rhumatisme
+ID : 431
+nom : Mona, age : 67, motif : Infection
+ID : 703
+nom : Olivia, age : 67, motif : Fracture
+ID : 710
+nom : Paul, age : 67, motif : Migraine
+ID : 724
+nom : Charlie, age : 67, motif : Traumatisme
+ID : 794
+nom : Eve, age : 67, motif : Cardiopathie
+ID : 836
+nom : Liam, age : 67, motif : Rhumatisme
+ID : 883
+nom : Nathan, age : 67, motif : Accident
+ID : 919
+nom : Jack, age : 67, motif : Diabète
+ID : 950
+nom : Olivia, age : 67, motif : Traumatisme
+ID : 972
+nom : Quincy, age : 67, motif : Diabète
+ID : 215
+nom : Alice, age : 68, motif : Infection
+ID : 421
+nom : Grace, age : 68, motif : Fracture
+ID : 715
+nom : Paul, age : 68, motif : Rhumatisme
+ID : 780
+nom : Liam, age : 68, motif : Fièvre
+ID : 815
+nom : Steve, age : 68, motif : Cardiopathie
+ID : 860
+nom : Grace, age : 68, motif : Diabète
+ID : 920
+nom : Eve, age : 68, motif : Traumatisme
+ID : 931
+nom : Isla, age : 68, motif : Accident
+ID : 95
+nom : Isla, age : 69, motif : Douleur abdominale
+ID : 155
+nom : Charlie, age : 69, motif : Douleur abdominale
+ID : 174
+nom : Karen, age : 69, motif : Traumatisme
+ID : 201
+nom : Mona, age : 69, motif : Traumatisme
+ID : 301
+nom : Frank, age : 69, motif : Cardiopathie
+ID : 440
+nom : Karen, age : 69, motif : Fracture
+ID : 846
+nom : Eve, age : 69, motif : Rhumatisme
+ID : 952
+nom : Diana, age : 69, motif : Infection
+ID : 971
+nom : Diana, age : 69, motif : Diabète
+ID : 245
+nom : Grace, age : 70, motif : Rhumatisme
+ID : 412
+nom : Diana, age : 70, motif : Cardiopathie
+ID : 835
+nom : Henry, age : 70, motif : Infection
+ID : 900
+nom : Isla, age : 70, motif : Traumatisme
+ID : 133
+nom : Diana, age : 71, motif : Migraine
+ID : 177
+nom : Diana, age : 71, motif : Migraine
+ID : 286
+nom : Tina, age : 71, motif : Infection
+ID : 526
+nom : Diana, age : 71, motif : Cardiopathie
+ID : 663
+nom : Mona, age : 71, motif : Traumatisme
+ID : 751
+nom : Steve, age : 71, motif : Fièvre
+ID : 850
+nom : Tina, age : 71, motif : Accident
+ID : 859
+nom : Eve, age : 71, motif : Rhumatisme
+ID : 49
+nom : Karen, age : 72, motif : Accident
+ID : 88
+nom : Liam, age : 72, motif : Cardiopathie
+ID : 188
+nom : Bob, age : 72, motif : Rhumatisme
+ID : 401
+nom : Jack, age : 72, motif : Traumatisme
+ID : 416
+nom : Paul, age : 72, motif : Fracture
+ID : 466
+nom : Olivia, age : 72, motif : Infection
+ID : 529
+nom : Mona, age : 72, motif : Accident
+ID : 697
+nom : Olivia, age : 72, motif : Douleur abdominale
+ID : 718
+nom : Quincy, age : 72, motif : Douleur abdominale
+ID : 752
+nom : Tina, age : 72, motif : Rhumatisme
+ID : 774
+nom : Alice, age : 72, motif : Diabète
+ID : 778
+nom : Alice, age : 72, motif : Traumatisme
+ID : 888
+nom : Isla, age : 72, motif : Douleur abdominale
+ID : 890
+nom : Paul, age : 72, motif : Migraine
+ID : 227
+nom : Alice, age : 73, motif : Traumatisme
+ID : 348
+nom : Nathan, age : 73, motif : Cardiopathie
+ID : 352
+nom : Bob, age : 73, motif : Migraine
+ID : 370
+nom : Jack, age : 73, motif : Infection
+ID : 635
+nom : Karen, age : 73, motif : Fièvre
+ID : 672
+nom : Mona, age : 73, motif : Traumatisme
+ID : 760
+nom : Charlie, age : 73, motif : Migraine
+ID : 785
+nom : Henry, age : 73, motif : Migraine
+ID : 792
+nom : Henry, age : 73, motif : Douleur abdominale
+ID : 945
+nom : Charlie, age : 73, motif : Cardiopathie
+ID : 90
+nom : Paul, age : 74, motif : Fracture
+ID : 160
+nom : Olivia, age : 74, motif : Diabète
+ID : 266
+nom : Rachel, age : 74, motif : Fracture
+ID : 283
+nom : Quincy, age : 74, motif : Accident
+ID : 315
+nom : Isla, age : 74, motif : Cardiopathie
+ID : 506
+nom : Rachel, age : 74, motif : Douleur abdominale
+ID : 649
+nom : Quincy, age : 74, motif : Fièvre
+ID : 677
+nom : Alice, age : 74, motif : Accident
+ID : 693
+nom : Nathan, age : 74, motif : Rhumatisme
+ID : 740
+nom : Mona, age : 74, motif : Douleur abdominale
+ID : 807
+nom : Paul, age : 74, motif : Cardiopathie
+ID : 867
+nom : Alice, age : 74, motif : Douleur abdominale
+ID : 929
+nom : Nathan, age : 74, motif : Cardiopathie
+ID : 179
+nom : Steve, age : 75, motif : Fièvre
+ID : 573
+nom : Mona, age : 75, motif : Migraine
+ID : 582
+nom : Rachel, age : 75, motif : Fièvre
+ID : 743
+nom : Henry, age : 75, motif : Traumatisme
+ID : 809
+nom : Grace, age : 75, motif : Douleur abdominale
+ID : 954
+nom : Karen, age : 75, motif : Accident
+ID : 57
+nom : Charlie, age : 76, motif : Fracture
+ID : 153
+nom : Charlie, age : 76, motif : Accident
+ID : 324
+nom : Isla, age : 76, motif : Diabète
+ID : 359
+nom : Liam, age : 76, motif : Migraine
+ID : 473
+nom : Steve, age : 76, motif : Rhumatisme
+ID : 533
+nom : Frank, age : 76, motif : Traumatisme
+ID : 680
+nom : Liam, age : 76, motif : Migraine
+ID : 768
+nom : Frank, age : 76, motif : Douleur abdominale
+ID : 855
+nom : Paul, age : 76, motif : Rhumatisme
+ID : 26
+nom : Eve, age : 77, motif : Douleur abdominale
+ID : 42
+nom : Rachel, age : 77, motif : Douleur abdominale
+ID : 105
+nom : Rachel, age : 77, motif : Traumatisme
+ID : 167
+nom : Grace, age : 77, motif : Douleur abdominale
+ID : 181
+nom : Karen, age : 77, motif : Migraine
+ID : 230
+nom : Eve, age : 77, motif : Accident
+ID : 238
+nom : Quincy, age : 77, motif : Fièvre
+ID : 240
+nom : Jack, age : 77, motif : Accident
+ID : 276
+nom : Eve, age : 77, motif : Cardiopathie
+ID : 438
+nom : Paul, age : 77, motif : Fièvre
+ID : 475
+nom : Olivia, age : 77, motif : Diabète
+ID : 483
+nom : Henry, age : 77, motif : Fièvre
+ID : 504
+nom : Mona, age : 77, motif : Douleur abdominale
+ID : 593
+nom : Karen, age : 77, motif : Accident
+ID : 726
+nom : Isla, age : 77, motif : Douleur abdominale
+ID : 786
+nom : Karen, age : 77, motif : Cardiopathie
+ID : 928
+nom : Quincy, age : 77, motif : Infection
+ID : 24
+nom : Steve, age : 78, motif : Rhumatisme
+ID : 125
+nom : Liam, age : 78, motif : Douleur abdominale
+ID : 135
+nom : Olivia, age : 78, motif : Douleur abdominale
+ID : 173
+nom : Liam, age : 78, motif : Infection
+ID : 678
+nom : Alice, age : 78, motif : Fièvre
+ID : 707
+nom : Liam, age : 78, motif : Traumatisme
+ID : 754
+nom : Alice, age : 78, motif : Cardiopathie
+ID : 975
+nom : Charlie, age : 78, motif : Accident
+ID : 981
+nom : Nathan, age : 78, motif : Fièvre
+ID : 118
+nom : Eve, age : 79, motif : Douleur abdominale
+ID : 213
+nom : Tina, age : 79, motif : Cardiopathie
+ID : 454
+nom : Nathan, age : 79, motif : Migraine
+ID : 571
+nom : Liam, age : 79, motif : Diabète
+ID : 595
+nom : Nathan, age : 79, motif : Cardiopathie
+ID : 732
+nom : Paul, age : 79, motif : Traumatisme
+ID : 16
+nom : Henry, age : 80, motif : Douleur abdominale
+ID : 61
+nom : Nathan, age : 80, motif : Cardiopathie
+ID : 104
+nom : Henry, age : 80, motif : Cardiopathie
+ID : 164
+nom : Olivia, age : 80, motif : Migraine
+ID : 221
+nom : Bob, age : 80, motif : Accident
+ID : 267
+nom : Charlie, age : 80, motif : Douleur abdominale
+ID : 282
+nom : Rachel, age : 80, motif : Douleur abdominale
+ID : 434
+nom : Olivia, age : 80, motif : Cardiopathie
+ID : 477
+nom : Tina, age : 80, motif : Rhumatisme
+ID : 485
+nom : Olivia, age : 80, motif : Fracture
+ID : 500
+nom : Bob, age : 80, motif : Infection
+ID : 512
+nom : Jack, age : 80, motif : Accident
+ID : 596
+nom : Henry, age : 80, motif : Rhumatisme
+ID : 614
+nom : Mona, age : 80, motif : Fracture
+ID : 753
+nom : Steve, age : 80, motif : Fièvre
+ID : 909
+nom : Steve, age : 80, motif : Cardiopathie
+ID : 237
+nom : Mona, age : 81, motif : Fièvre
+ID : 349
+nom : Quincy, age : 81, motif : Traumatisme
+ID : 397
+nom : Alice, age : 81, motif : Rhumatisme
+ID : 627
+nom : Diana, age : 81, motif : Traumatisme
+ID : 633
+nom : Quincy, age : 81, motif : Diabète
+ID : 666
+nom : Henry, age : 81, motif : Cardiopathie
+ID : 683
+nom : Henry, age : 81, motif : Rhumatisme
+ID : 705
+nom : Diana, age : 81, motif : Infection
+ID : 738
+nom : Eve, age : 81, motif : Traumatisme
+ID : 893
+nom : Mona, age : 81, motif : Douleur abdominale
+ID : 944
+nom : Bob, age : 81, motif : Accident
+ID : 4
+nom : Paul, age : 82, motif : Diabète
+ID : 51
+nom : Frank, age : 82, motif : Migraine
+ID : 169
+nom : Alice, age : 82, motif : Cardiopathie
+ID : 479
+nom : Karen, age : 82, motif : Douleur abdominale
+ID : 611
+nom : Liam, age : 82, motif : Accident
+ID : 713
+nom : Jack, age : 82, motif : Accident
+ID : 812
+nom : Liam, age : 82, motif : Infection
+ID : 813
+nom : Diana, age : 82, motif : Accident
+ID : 938
+nom : Olivia, age : 82, motif : Diabète
+ID : 136
+nom : Olivia, age : 83, motif : Infection
+ID : 318
+nom : Rachel, age : 83, motif : Infection
+ID : 335
+nom : Steve, age : 83, motif : Cardiopathie
+ID : 490
+nom : Grace, age : 83, motif : Accident
+ID : 491
+nom : Diana, age : 83, motif : Infection
+ID : 600
+nom : Grace, age : 83, motif : Douleur abdominale
+ID : 602
+nom : Diana, age : 83, motif : Fracture
+ID : 608
+nom : Tina, age : 83, motif : Accident
+ID : 644
+nom : Mona, age : 83, motif : Accident
+ID : 821
+nom : Quincy, age : 83, motif : Fracture
+ID : 44
+nom : Steve, age : 84, motif : Infection
+ID : 203
+nom : Tina, age : 84, motif : Douleur abdominale
+ID : 217
+nom : Paul, age : 84, motif : Migraine
+ID : 336
+nom : Diana, age : 84, motif : Fièvre
+ID : 498
+nom : Alice, age : 84, motif : Infection
+ID : 518
+nom : Isla, age : 84, motif : Traumatisme
+ID : 546
+nom : Diana, age : 84, motif : Cardiopathie
+ID : 661
+nom : Isla, age : 84, motif : Fracture
+ID : 681
+nom : Diana, age : 84, motif : Fièvre
+ID : 428
+nom : Bob, age : 85, motif : Rhumatisme
+ID : 603
+nom : Karen, age : 85, motif : Infection
+ID : 642
+nom : Liam, age : 85, motif : Migraine
+ID : 736
+nom : Mona, age : 85, motif : Infection
+ID : 885
+nom : Eve, age : 85, motif : Rhumatisme
+ID : 249
+nom : Diana, age : 86, motif : Diabète
+ID : 281
+nom : Eve, age : 86, motif : Douleur abdominale
+ID : 287
+nom : Rachel, age : 86, motif : Accident
+ID : 295
+nom : Quincy, age : 86, motif : Fièvre
+ID : 418
+nom : Olivia, age : 86, motif : Douleur abdominale
+ID : 436
+nom : Nathan, age : 86, motif : Infection
+ID : 442
+nom : Alice, age : 86, motif : Migraine
+ID : 472
+nom : Olivia, age : 86, motif : Traumatisme
+ID : 501
+nom : Charlie, age : 86, motif : Traumatisme
+ID : 670
+nom : Steve, age : 86, motif : Diabète
+ID : 886
+nom : Steve, age : 86, motif : Cardiopathie
+ID : 967
+nom : Quincy, age : 86, motif : Accident
+ID : 41
+nom : Nathan, age : 87, motif : Traumatisme
+ID : 134
+nom : Mona, age : 87, motif : Diabète
+ID : 222
+nom : Olivia, age : 87, motif : Infection
+ID : 350
+nom : Jack, age : 87, motif : Accident
+ID : 356
+nom : Tina, age : 87, motif : Fracture
+ID : 357
+nom : Frank, age : 87, motif : Douleur abdominale
+ID : 381
+nom : Karen, age : 87, motif : Cardiopathie
+ID : 388
+nom : Mona, age : 87, motif : Migraine
+ID : 417
+nom : Bob, age : 87, motif : Fracture
+ID : 420
+nom : Grace, age : 87, motif : Diabète
+ID : 673
+nom : Bob, age : 87, motif : Infection
+ID : 702
+nom : Nathan, age : 87, motif : Fièvre
+ID : 801
+nom : Isla, age : 87, motif : Fracture
+ID : 872
+nom : Karen, age : 87, motif : Accident
+ID : 974
+nom : Liam, age : 87, motif : Fracture
+ID : 93
+nom : Rachel, age : 88, motif : Diabète
+ID : 138
+nom : Henry, age : 88, motif : Rhumatisme
+ID : 285
+nom : Olivia, age : 88, motif : Fracture
+ID : 400
+nom : Nathan, age : 88, motif : Douleur abdominale
+ID : 408
+nom : Jack, age : 88, motif : Migraine
+ID : 557
+nom : Charlie, age : 88, motif : Fracture
+ID : 722
+nom : Diana, age : 88, motif : Migraine
+ID : 818
+nom : Tina, age : 88, motif : Douleur abdominale
+ID : 824
+nom : Nathan, age : 88, motif : Accident
+ID : 880
+nom : Rachel, age : 88, motif : Traumatisme
+ID : 984
+nom : Charlie, age : 88, motif : Fracture
+ID : 10
+nom : Charlie, age : 89, motif : Traumatisme
+ID : 84
+nom : Liam, age : 89, motif : Fracture
+ID : 156
+nom : Grace, age : 89, motif : Fracture
+ID : 250
+nom : Eve, age : 89, motif : Diabète
+ID : 273
+nom : Jack, age : 89, motif : Douleur abdominale
+ID : 502
+nom : Charlie, age : 89, motif : Migraine
+ID : 728
+nom : Quincy, age : 89, motif : Accident
+ID : 851
+nom : Olivia, age : 89, motif : Diabète
+ID : 908
+nom : Tina, age : 89, motif : Douleur abdominale
+ID : 62
+nom : Jack, age : 90, motif : Rhumatisme
+ID : 193
+nom : Olivia, age : 90, motif : Fièvre
+ID : 298
+nom : Tina, age : 90, motif : Cardiopathie
+ID : 355
+nom : Karen, age : 90, motif : Fièvre
+ID : 358
+nom : Olivia, age : 90, motif : Infection
+ID : 584
+nom : Bob, age : 90, motif : Rhumatisme
+ID : 914
+nom : Henry, age : 90, motif : Traumatisme
+ID : 921
+nom : Rachel, age : 90, motif : Fracture
+ID : 127
+nom : Rachel, age : 91, motif : Fièvre
+ID : 148
+nom : Isla, age : 91, motif : Diabète
+ID : 195
+nom : Bob, age : 91, motif : Rhumatisme
+ID : 256
+nom : Diana, age : 91, motif : Douleur abdominale
+ID : 376
+nom : Quincy, age : 91, motif : Douleur abdominale
+ID : 457
+nom : Liam, age : 91, motif : Infection
+ID : 717
+nom : Karen, age : 91, motif : Migraine
+ID : 730
+nom : Mona, age : 91, motif : Rhumatisme
+ID : 782
+nom : Tina, age : 91, motif : Fracture
+ID : 956
+nom : Isla, age : 91, motif : Traumatisme
+ID : 79
+nom : Mona, age : 92, motif : Rhumatisme
+ID : 110
+nom : Quincy, age : 92, motif : Fracture
+ID : 235
+nom : Quincy, age : 92, motif : Fièvre
+ID : 279
+nom : Frank, age : 92, motif : Fracture
+ID : 433
+nom : Henry, age : 92, motif : Traumatisme
+ID : 621
+nom : Olivia, age : 92, motif : Fièvre
+ID : 784
+nom : Jack, age : 92, motif : Diabète
+ID : 827
+nom : Quincy, age : 92, motif : Fièvre
+ID : 830
+nom : Eve, age : 92, motif : Fièvre
+ID : 904
+nom : Quincy, age : 92, motif : Douleur abdominale
+ID : 23
+nom : Eve, age : 93, motif : Rhumatisme
+ID : 58
+nom : Nathan, age : 93, motif : Traumatisme
+ID : 114
+nom : Steve, age : 93, motif : Rhumatisme
+ID : 280
+nom : Mona, age : 93, motif : Traumatisme
+ID : 465
+nom : Alice, age : 93, motif : Douleur abdominale
+ID : 545
+nom : Nathan, age : 93, motif : Cardiopathie
+ID : 599
+nom : Liam, age : 93, motif : Fièvre
+ID : 750
+nom : Frank, age : 93, motif : Migraine
+ID : 964
+nom : Henry, age : 93, motif : Diabète
+ID : 205
+nom : Rachel, age : 94, motif : Infection
+ID : 313
+nom : Isla, age : 94, motif : Infection
+ID : 469
+nom : Mona, age : 94, motif : Douleur abdominale
+ID : 586
+nom : Bob, age : 94, motif : Infection
+ID : 594
+nom : Jack, age : 94, motif : Accident
+ID : 841
+nom : Karen, age : 94, motif : Accident
+ID : 864
+nom : Isla, age : 94, motif : Rhumatisme
+ID : 898
+nom : Charlie, age : 94, motif : Douleur abdominale
+ID : 65
+nom : Paul, age : 95, motif : Accident
+ID : 296
+nom : Liam, age : 95, motif : Traumatisme
+ID : 320
+nom : Jack, age : 95, motif : Fracture
+ID : 334
+nom : Isla, age : 95, motif : Traumatisme
+ID : 419
+nom : Karen, age : 95, motif : Rhumatisme
+ID : 441
+nom : Frank, age : 95, motif : Cardiopathie
+ID : 505
+nom : Rachel, age : 95, motif : Fièvre
+ID : 542
+nom : Liam, age : 95, motif : Migraine
+ID : 769
+nom : Nathan, age : 95, motif : Rhumatisme
+ID : 948
+nom : Nathan, age : 95, motif : Fièvre
+ID : 962
+nom : Bob, age : 95, motif : Infection
+ID : 973
+nom : Karen, age : 95, motif : Cardiopathie
+ID : 980
+nom : Karen, age : 95, motif : Migraine
+ID : 40
+nom : Tina, age : 96, motif : Infection
+ID : 94
+nom : Karen, age : 96, motif : Fracture
+ID : 461
+nom : Isla, age : 96, motif : Cardiopathie
+ID : 484
+nom : Steve, age : 96, motif : Douleur abdominale
+ID : 645
+nom : Nathan, age : 96, motif : Rhumatisme
+ID : 668
+nom : Diana, age : 96, motif : Fièvre
+ID : 699
+nom : Alice, age : 96, motif : Fièvre
+ID : 700
+nom : Rachel, age : 96, motif : Accident
+ID : 725
+nom : Bob, age : 96, motif : Rhumatisme
+ID : 758
+nom : Paul, age : 96, motif : Diabète
+ID : 840
+nom : Isla, age : 96, motif : Douleur abdominale
+ID : 957
+nom : Nathan, age : 96, motif : Douleur abdominale
+ID : 75
+nom : Diana, age : 97, motif : Douleur abdominale
+ID : 143
+nom : Frank, age : 97, motif : Diabète
+ID : 373
+nom : Eve, age : 97, motif : Migraine
+ID : 617
+nom : Charlie, age : 97, motif : Accident
+ID : 659
+nom : Rachel, age : 97, motif : Rhumatisme
+ID : 692
+nom : Steve, age : 97, motif : Diabète
+ID : 694
+nom : Karen, age : 97, motif : Infection
+ID : 721
+nom : Liam, age : 97, motif : Diabète
+ID : 992
+nom : Bob, age : 97, motif : Fièvre
+ID : 13
+nom : Rachel, age : 98, motif : Fièvre
+ID : 108
+nom : Bob, age : 98, motif : Cardiopathie
+ID : 159
+nom : Olivia, age : 98, motif : Fracture
+ID : 206
+nom : Grace, age : 98, motif : Rhumatisme
+ID : 239
+nom : Olivia, age : 98, motif : Fièvre
+ID : 309
+nom : Diana, age : 98, motif : Rhumatisme
+ID : 339
+nom : Frank, age : 98, motif : Fièvre
+ID : 411
+nom : Bob, age : 98, motif : Fièvre
+ID : 432
+nom : Tina, age : 98, motif : Fièvre
+ID : 511
+nom : Eve, age : 98, motif : Douleur abdominale
+ID : 632
+nom : Bob, age : 98, motif : Fracture
+ID : 637
+nom : Henry, age : 98, motif : Accident
+ID : 844
+nom : Alice, age : 98, motif : Migraine
+ID : 14
+nom : Rachel, age : 99, motif : Cardiopathie
+ID : 207
+nom : Alice, age : 99, motif : Traumatisme
+ID : 241
+nom : Steve, age : 99, motif : Fracture
+ID : 311
+nom : Quincy, age : 99, motif : Cardiopathie
+ID : 569
+nom : Eve, age : 99, motif : Cardiopathie
+ID : 646
+nom : Tina, age : 99, motif : Accident
+ID : 845
+nom : Diana, age : 99, motif : Douleur abdominale
+ID : 960
+nom : Isla, age : 99, motif : Douleur abdominale

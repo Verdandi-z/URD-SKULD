@@ -1,0 +1,60 @@
+ID : 1
+nom : guillaume, age : 25, motif : chute
+ID : 2
+nom : zakaria, age : 54, motif : chute
+ID : 3
+nom : julie, age : 54, motif : traumatisme
+ID : 4
+nom : kenza, age : 45, motif : demence
+ID : 5
+nom : gilbert, age : 32, motif : pancreatite
+ID : 6
+nom : jean, age : 43, motif : infection
+ID : 7
+nom : pau, age : 34, motif : addiction
+ID : 8
+nom : olivier, age : 36, motif : diabète
+ID : 9
+nom : xavier, age : 64, motif : rixe
+ID : 10
+nom : hajar, age : 34, motif : appendicite
+ID : 11
+nom : zakaria, age : 54, motif : avc
+ID : 12
+nom : jean-michel, age : 53, motif : avc
+ID : 13
+nom : artémise, age : 43, motif : grossesse
+ID : 14
+nom : alan, age : 77, motif : parotidite
+ID : 15
+nom : lucie, age : 34, motif : rupture d'anévrisme
+ID : 16
+nom : wassim, age : 22, motif : paralysie facial
+ID : 17
+nom : thea, age : 34, motif : fracture
+ID : 18
+nom : lisa, age : 13, motif : retard de croissance
+ID : 19
+nom : lucas, age : 23, motif : demence
+ID : 20
+nom : herver, age : 23, motif : alopecie
+ID : 21
+nom : camille, age : 42, motif : gastro-entérite
+ID : 22
+nom : momo, age : 65, motif : hta
+ID : 23
+nom : booba, age : 53, motif : allergie
+ID : 24
+nom : samuel, age : 32, motif : pfla
+ID : 25
+nom : tarik, age : 63, motif : intoxication
+ID : 26
+nom : angelica, age : 36, motif : hépatite
+ID : 27
+nom : cheikh, age : 23, motif : pfla
+ID : 28
+nom : mamadou, age : 43, motif : hématurie
+ID : 29
+nom : ana, age : 24, motif : dysnatrémie
+ID : 30
+nom : jean, age : 32, motif : pancréatite

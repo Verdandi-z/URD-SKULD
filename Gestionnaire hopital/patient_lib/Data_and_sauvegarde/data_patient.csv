@@ -1,0 +1,22 @@
+;patient;nom;age;motif
+0;patient1;guillaume;25;chute
+1;patient2;zakaria;54;chute
+2;patient3;julie;54;traumatisme
+3;patient4;kenza;45;demence
+4;patient5;gilbert;32;pancreatite
+5;patient6;jean;43;infection
+6;patient7;pau;34;addiction
+7;patient8;olivier;36;diabète
+8;patient9;xavier;64;rixe
+9;patient10;hajar;34;appendicite
+10;patient11;zakaria;54;avc
+11;patient12;jean-michel;53;avc
+12;patient13;artémise;43;grossesse
+13;patient14;alan;77;parotidite
+14;patient15;lucie;34;rupture d'anévrisme
+15;patient16;wassim;22;paralysie facial
+16;patient17;thea;34;fracture
+17;patient18;lisa;13;retard de croissance
+18;patient19;lucas;23;demence
+19;patient20;herver;23;alopecie
+20;patient21;camille;42;gastro-entérite

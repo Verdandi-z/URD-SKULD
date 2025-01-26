@@ -1,0 +1,4 @@
+ID : 22
+nom : momo, age : 65, motif : hta
+ID : 14
+nom : alan, age : 77, motif : parotidite

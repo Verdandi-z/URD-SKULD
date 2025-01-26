@@ -1,0 +1,122 @@
+{
+    "patient1": {
+        "nom": "guillaume",
+        "age": 25,
+        "motif": "chute"
+    },
+    "patient2": {
+        "nom": "zakaria",
+        "age": 54,
+        "motif": "chute"
+    },
+    "patient3": {
+        "nom": "julie",
+        "age": 54,
+        "motif": "traumatisme"
+    },
+    "patient4": {
+        "nom": "kenza",
+        "age": 45,
+        "motif": "demence"
+    },
+    "patient5": {
+        "nom": "gilbert",
+        "age": 32,
+        "motif": "pancreatite"
+    },
+    "patient6": {
+        "nom": "jean",
+        "age": 43,
+        "motif": "infection"
+    },
+    "patient7": {
+        "nom": "pau",
+        "age": 34,
+        "motif": "addiction"
+    },
+    "patient8": {
+        "nom": "olivier",
+        "age": 36,
+        "motif": "diab\u00e8te"
+    },
+    "patient9": {
+        "nom": "xavier",
+        "age": 64,
+        "motif": "rixe"
+    },
+    "patient10": {
+        "nom": "hajar",
+        "age": 34,
+        "motif": "appendicite"
+    },
+    "patient11": {
+        "nom": "zakaria",
+        "age": 54,
+        "motif": "avc"
+    },
+    "patient12": {
+        "nom": "jean-michel",
+        "age": 53,
+        "motif": "avc"
+    },
+    "patient13": {
+        "nom": "art\u00e9mise",
+        "age": 43,
+        "motif": "grossesse"
+    },
+    "patient14": {
+        "nom": "alan",
+        "age": 77,
+        "motif": "parotidite"
+    },
+    "patient15": {
+        "nom": "lucie",
+        "age": 34,
+        "motif": "rupture d'an\u00e9vrisme"
+    },
+    "patient16": {
+        "nom": "wassim",
+        "age": 22,
+        "motif": "paralysie facial"
+    },
+    "patient17": {
+        "nom": "thea",
+        "age": 34,
+        "motif": "fracture"
+    },
+    "patient18": {
+        "nom": "lisa",
+        "age": 13,
+        "motif": "retard de croissance"
+    },
+    "patient19": {
+        "nom": "lucas",
+        "age": 23,
+        "motif": "demence"
+    },
+    "patient20": {
+        "nom": "herver",
+        "age": 23,
+        "motif": "alopecie"
+    },
+    "patient21": {
+        "nom": "camille",
+        "age": 42,
+        "motif": "gastro-ent\u00e9rite"
+    },
+    "patient22": {
+        "nom": "momo",
+        "age": 65,
+        "motif": "hta"
+    },
+    "patient23": {
+        "nom": "booba",
+        "age": 53,
+        "motif": "allergie"
+    },
+    "patient24": {
+        "nom": "samuel",
+        "age": 32,
+        "motif": "pfla"
+    }
+}

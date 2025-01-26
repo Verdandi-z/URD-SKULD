@@ -1,0 +1,105 @@
+sauvegarde faite le 2025-1-10 à 20 : 38 dans le liste_patient.json
+sauvegarde faite le 2025-1-10 à 20 : 42 dans le liste_patient.json
+sauvegarde faite le 2025-1-11 à 12 : 50 dans le data_patient.xlsx
+sauvegarde faite le 2025-1-11 à 12 : 52 dans le data_patient.csv
+sauvegarde faite le 2025-1-11 à 12 : 54 dans le data_patient.xlsx
+sauvegarde faite le 2025-1-11 à 12 : 54 dans le data_patient.xlsx
+données exportés dans le fichier : faite le 2025-1-11 à 12 : 59 dans le data_patient.xlsx
+sauvegarde faite dans le fichier : faite le 2025-1-11 à 13 : 4 dans le liste_patient.json
+sauvegarde faite dans le fichier : liste_patient.json faite le 2025-1-11 à 13 : 6 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/data_patient.xlsx faite le 2025-1-11 à 14 : 43 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 44 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 44 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 44 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 44 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 44 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 44 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 44 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 44 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 44 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 44 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 44 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 44 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 44 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 44 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 44 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 44 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 44 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 44 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 44 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 44 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 44 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 44 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 44 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 44 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 46 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 46 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 46 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 46 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 46 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 46 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 46 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 46 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 46 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 46 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 46 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 46 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 46 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 46 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 46 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 46 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 46 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 46 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 46 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 46 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 46 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 46 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 46 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 46 
+données exportés dans le fichier : /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/patients_export.txt faite le 2025-1-11 à 14 : 46 
+sauvegarde faite dans le fichier : liste_patient.json faite le 2025-1-12 à 14 : 13 
+sauvegarde faite dans le fichier : liste_patient.json faite le 2025-1-12 à 14 : 16 
+sauvegarde faite dans le fichier : liste_patient.json faite le 2025-1-17 à 15 : 52 
+sauvegarde faite dans le fichier : liste_patient.json faite le 2025-1-17 à 15 : 54 
+database export vers /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/DataBase_patients_2025-01-17_18:5 faite le 2025-1-17 à 18 : 5 
+export de la base de donnée vers  /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/DataBase_patients_2025-01-17_18h57.txt faite le 2025-1-17 à 18 : 57 
+export de la base de donnée vers  /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/DataBase_patients_2025-01-17_18h57.txt faite le 2025-1-17 à 18 : 57 
+export de la base de donnée vers  /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/DataBase_patients_2025-01-17_18h57.txt faite le 2025-1-17 à 18 : 57 
+export de la base de donnée vers  /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/DataBase_patients_2025-01-17_18h57.txt faite le 2025-1-17 à 18 : 57 
+export de la base de donnée vers  /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/DataBase_patients_2025-01-17_18h57.txt faite le 2025-1-17 à 18 : 57 
+export de la base de donnée vers  /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/DataBase_patients_2025-01-17_18h57.txt faite le 2025-1-17 à 18 : 57 
+export de la base de donnée vers  /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/DataBase_patients_2025-01-17_18h57.txt faite le 2025-1-17 à 18 : 57 
+export de la base de donnée vers  /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/DataBase_patients_2025-01-17_18h57.txt faite le 2025-1-17 à 18 : 57 
+export de la base de donnée vers  /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/DataBase_patients_2025-01-17_18h57.txt faite le 2025-1-17 à 18 : 57 
+export de la base de donnée vers  /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/DataBase_patients_2025-01-17_18h57.txt faite le 2025-1-17 à 18 : 57 
+export de la base de donnée vers  /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/DataBase_patients_2025-01-17_18h57.txt faite le 2025-1-17 à 18 : 57 
+export de la base de donnée vers  /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/DataBase_patients_2025-01-17_18h57.txt faite le 2025-1-17 à 18 : 57 
+export de la base de donnée vers  /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/DataBase_patients_2025-01-17_18h57.txt faite le 2025-1-17 à 18 : 57 
+export de la base de donnée vers  /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/DataBase_patients_2025-01-17_18h57.txt faite le 2025-1-17 à 18 : 57 
+export de la base de donnée vers  /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/DataBase_patients_2025-01-17_18h57.txt faite le 2025-1-17 à 18 : 57 
+export de la base de donnée vers  /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/DataBase_patients_2025-01-17_18h57.txt faite le 2025-1-17 à 18 : 57 
+export de la base de donnée vers  /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/DataBase_patients_2025-01-17_18h57.txt faite le 2025-1-17 à 18 : 57 
+export de la base de donnée vers  /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/DataBase_patients_2025-01-17_18h57.txt faite le 2025-1-17 à 18 : 57 
+export de la base de donnée vers  /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/DataBase_patients_2025-01-17_18h57.txt faite le 2025-1-17 à 18 : 57 
+export de la base de donnée vers  /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/DataBase_patients_2025-01-17_18h57.txt faite le 2025-1-17 à 18 : 57 
+export de la base de donnée vers  /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/DataBase_patients_2025-01-17_18h57.txt faite le 2025-1-17 à 18 : 57 
+export de la base de donnée vers  /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/DataBase_patients_2025-01-17_18h57.txt faite le 2025-1-17 à 18 : 57 
+export de la base de donnée vers  /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/DataBase_patients_2025-01-17_18h57.txt faite le 2025-1-17 à 18 : 57 
+export de la base de donnée vers  /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/DataBase_patients_2025-01-17_18h57.txt faite le 2025-1-17 à 18 : 57 
+export de la base de donnée vers  /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/DataBase_patients_2025-01-17_18h57.txt faite le 2025-1-17 à 18 : 57 
+export de la base de donnée vers  /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/DataBase_patients_2025-01-17_18h57.txt faite le 2025-1-17 à 18 : 57 
+export de la base de donnée vers  /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/DataBase_patients_2025-01-17_18h57.txt faite le 2025-1-17 à 18 : 57 
+export de la base de donnée vers  /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/DataBase_patients_2025-01-17_18h57.txt faite le 2025-1-17 à 18 : 57 
+export de la base de donnée vers  /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/DataBase_patients_2025-01-17_18h57.txt faite le 2025-1-17 à 18 : 57 
+export de la base de donnée vers  /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/DataBase_patients_2025-01-17_18h57.txt faite le 2025-1-17 à 18 : 57 
+export de la base de donnée vers  /Users/hamdoune/Desktop/IAM/Gestionnaire hopital/patient_lib/Data_and_sauvegarde/DataBase_patients_2025-01-17_18h57.xlsx faite le 2025-1-17 à 18 : 57 
+export de la base de donnée vers  DataBase_patients_2025-01-17_18h59.txt faite le 2025-1-17 à 18 : 59 
+export de la base de donnée vers  DataBase_patients_2025-01-17_19h1.txt faite le 2025-1-17 à 19 : 1 
+export de la base de donnée vers  DataBase_patients_2025-01-17_19h1.xlsx faite le 2025-1-17 à 19 : 1 
+export de la base de donnée vers  DataBase_patients_2025-01-17_19h1.csv faite le 2025-1-17 à 19 : 1 
+export de la base de donnée vers  DataBase_patients_2025-01-17_19h13.txt faite le 2025-1-17 à 19 : 13 
+export de la base de donnée vers  DataBase_patients_2025-01-18_0h15.txt faite le 2025-1-18 à 0 : 15 
+export de la base de donnée vers  Data_trier_motif(chute).txt faite le 2025-1-18 à 0 : 36 
+export de la base de donnée vers  Data_trier_age > 65-2025-01-18_0h40.txt faite le 2025-1-18 à 0 : 41 
+export de la base de donnée vers  Data_trier_motif(avc)2025-01-18_0h42.txt faite le 2025-1-18 à 0 : 42 
+export de la base de donnée vers  Data_trier_age>50ans-2025-01-26_12h00.txt faite le 2025-1-26 à 12 : 00 

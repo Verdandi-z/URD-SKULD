@@ -1,0 +1,20 @@
+ID : 4
+nom : kenza, age : 45, motif : demence
+ID : 12
+nom : jean-michel, age : 53, motif : avc
+ID : 23
+nom : booba, age : 53, motif : allergie
+ID : 2
+nom : zakaria, age : 54, motif : chute
+ID : 3
+nom : julie, age : 54, motif : traumatisme
+ID : 11
+nom : zakaria, age : 54, motif : avc
+ID : 25
+nom : tarik, age : 63, motif : intoxication
+ID : 9
+nom : xavier, age : 64, motif : rixe
+ID : 22
+nom : momo, age : 65, motif : hta
+ID : 14
+nom : alan, age : 77, motif : parotidite
