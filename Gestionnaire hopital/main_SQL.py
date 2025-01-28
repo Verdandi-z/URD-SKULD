@@ -52,3 +52,4 @@ while True :
         break
     if choix_menu not in [1,2,3,4,5,6,7,8] :
         print("Veuillez choisir un chiffre entre 1 et 8")
+
