@@ -11,6 +11,28 @@ class Window(QWidget) :
         self.wind.setWindowTitle('Fenètre de connexion')
         self.wind.setGeometry(100,200,400,400)
 
+        label = QLabel('entrez votre mail', self.wind)
+        label2 = QLabel('entrez votre mot de passe', self.wind)
+
+        input_mail = QLineEdit(self.wind)
+        input_mdp = QLineEdit(self.wind)
+        input_mdp.setEchoMode(QLineEdit.Password)
+
+        bouton_connexion = QPushButton('connexion', self.wind)
+
+
+        layout = QVBoxLayout()
+        layout.addWidget(label)
+        layout.addWidget(input_mail)
+        layout.addWidget(label2)
+        layout.addWidget(input_mdp)
+        layout.addWidget(bouton_connexion)
+
+        self.wind.setLayout(layout)
+
+
+
+
 app = QApplication(sys.argv)
 wind1 = QWidget()
 w1 = Window(wind1)
@@ -25,3 +47,7 @@ sys.exit(app.exec_())
 ## 3/ creer fonction permmetant de définir  par défaut  le choix d'export du type de fichier pour que sur le menu le bouton mène direct à l'export.
 
 
+### 1- fenetre + inputmail + inputmdp + bouton connect
+###
+###
+###
