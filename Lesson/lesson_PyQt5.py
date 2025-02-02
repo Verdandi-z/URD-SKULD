@@ -6,37 +6,52 @@ class Window(QWidget) :
     def __init__(self, wind):
         super().__init__()
         self.wind = wind
+        self.wind.setWindowTitle('Fenètre de connexion')
+        self.wind.setGeometry(100,200,400,200)
+
 
     def build(self):
-        self.wind.setWindowTitle('Fenètre de connexion')
-        self.wind.setGeometry(100,200,400,400)
 
-        label = QLabel('entrez votre mail', self.wind)
-        label2 = QLabel('entrez votre mot de passe', self.wind)
+        layout_principal = QVBoxLayout()
 
-        input_mail = QLineEdit(self.wind)
-        input_mdp = QLineEdit(self.wind)
+        layout_horizontal1 = QHBoxLayout()
+        label_mail = QLabel('Email : ')
+        input_mail = QLineEdit()
+        layout_horizontal1.addWidget(label_mail)
+        layout_horizontal1.addWidget(input_mail)
+
+        layout_horizontal2 = QHBoxLayout()
+        label_mdp = QLabel('Mot de passe : ')
+        input_mdp = QLineEdit()
         input_mdp.setEchoMode(QLineEdit.Password)
+        layout_horizontal2.addWidget(label_mdp)
+        layout_horizontal2.addWidget(input_mdp)
 
-        bouton_connexion = QPushButton('connexion', self.wind)
 
 
-        layout = QVBoxLayout()
-        layout.addWidget(label)
-        layout.addWidget(input_mail)
-        layout.addWidget(label2)
-        layout.addWidget(input_mdp)
-        layout.addWidget(bouton_connexion)
+        bouton_connexion = QPushButton('Connexion', self)
+        bouton_connexion.clicked.connect(self.click_connexion)
 
-        self.wind.setLayout(layout)
+
+        layout_principal.addLayout(layout_horizontal1)
+        layout_principal.addLayout(layout_horizontal2)
+        layout_principal.addWidget(bouton_connexion)
+
+
+        self.wind.setLayout(layout_principal)
+
+    def click_connexion (self) :
+        print("connexion")
 
 
 
 
 app = QApplication(sys.argv)
 wind1 = QWidget()
+wind2 = QWidget()
 w1 = Window(wind1)
 w1.build()
+
 
 wind1.show()
 
