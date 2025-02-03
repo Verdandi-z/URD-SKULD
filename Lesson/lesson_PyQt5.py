@@ -2,67 +2,83 @@ import sys
 from PyQt5.QtWidgets import *
 
 
-class Window(QWidget) :
-    def __init__(self, wind):
+class w1(QWidget) :
+    def __init__ (self) :
         super().__init__()
-        self.wind = wind
-        self.wind.setWindowTitle('Fenètre de connexion')
-        self.wind.setGeometry(100,200,400,200)
+        self.setWindowTitle('connexion')
+        self.setGeometry(100,200,400,200)
+        self.build()
 
-
-    def build(self):
-
-        layout_principal = QVBoxLayout()
-
-        layout_horizontal1 = QHBoxLayout()
-        label_mail = QLabel('Email : ')
-        input_mail = QLineEdit()
-        layout_horizontal1.addWidget(label_mail)
-        layout_horizontal1.addWidget(input_mail)
-
-        layout_horizontal2 = QHBoxLayout()
-        label_mdp = QLabel('Mot de passe : ')
-        input_mdp = QLineEdit()
-        input_mdp.setEchoMode(QLineEdit.Password)
-        layout_horizontal2.addWidget(label_mdp)
-        layout_horizontal2.addWidget(input_mdp)
+        self.w2 = None
 
 
 
-        bouton_connexion = QPushButton('Connexion', self)
-        bouton_connexion.clicked.connect(self.click_connexion)
+    def build(self) :
+
+        main_layout = QVBoxLayout()
+
+        layout_h1 = QHBoxLayout()
+        layout_h2 = QHBoxLayout()
+
+        label_mail = QLabel('e-mail : ')
+        self.input_mail = QLineEdit()
+
+        layout_h1.addWidget(label_mail)
+        layout_h1.addWidget(self.input_mail)
+
+        label_mdp = QLabel('mot de passe : ')
+        self.input_mdp = QLineEdit()
+        self.input_mdp.setEchoMode(QLineEdit.Password)
+
+        layout_h2.addWidget(label_mdp)
+        layout_h2.addWidget(self.input_mdp)
+
+        self.bouton_conn = QPushButton('Connexion')
+        self.bouton_conn.clicked.connect(self.login)
+
+        main_layout.addLayout(layout_h1)
+        main_layout.addLayout(layout_h2)
+        main_layout.addWidget(self.bouton_conn)
+
+        self.setLayout(main_layout)
+
+    def login (self) :
+        email = self.input_mail.text()
+        mdp = self.input_mdp.text()
+
+        liste_inscrit = ['zak@gmail.com', 'mohamed@gmail.com', 'hajar@gmail.com']
+
+        if email in liste_inscrit and mdp == '1234' :
+            if self.w2 is None :
+                self.close()
+                self.w2 = w2()
+                self.w2.show()
+                print('connexion')
+        else :
+            print('erreur')
 
 
-        layout_principal.addLayout(layout_horizontal1)
-        layout_principal.addLayout(layout_horizontal2)
-        layout_principal.addWidget(bouton_connexion)
+class w2 (QWidget) :
+    def __init__(self):
+        super().__init__()
+        self.setWindowTitle('connecté')
+        self.setGeometry(100,200,400,200)
+        self.build()
 
+    def build(self) :
+        layout = QVBoxLayout()
 
-        self.wind.setLayout(layout_principal)
+        label_connect = QLabel('connecté')
 
-    def click_connexion (self) :
-        print("connexion")
+        layout.addWidget(label_connect)
+
+        self.setLayout(layout)
 
 
 
 
 app = QApplication(sys.argv)
-wind1 = QWidget()
-wind2 = QWidget()
-w1 = Window(wind1)
-w1.build()
-
-
-wind1.show()
+main_w = w1()
+main_w.show()
 
 sys.exit(app.exec_())
-
-## 1/ étudier les class en python
-## 2/ choisir les élements à integrer sur le menu de base
-## 3/ creer fonction permmetant de définir  par défaut  le choix d'export du type de fichier pour que sur le menu le bouton mène direct à l'export.
-
-
-### 1- fenetre + inputmail + inputmdp + bouton connect
-###
-###
-###
